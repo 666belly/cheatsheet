@@ -1,0 +1,28 @@
+html {
+    background-color: lavenderblush;
+}
+
+h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 400;
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+
+}
+
+table, th, td {
+    font-family: 'Nanum Gothic', sans-serif;  
+    border: 2px, solid;
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: 3px solid plum;
+    background-color: lavender;
+    color: purple;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+}
